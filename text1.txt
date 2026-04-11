@@ -1,8 +1,10 @@
-hello_1
+hello_1 edit first string
 
 3
 343434
+# new string
 34
 01
 new merge
 23
+add last string
